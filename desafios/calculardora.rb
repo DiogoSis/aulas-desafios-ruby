@@ -59,4 +59,5 @@ loop do
         when opcao = 0
             break
     end
+    system "clear"
 end
