@@ -1,0 +1,62 @@
+[
+    {
+        "make": "Toyota",
+        "model": "Corolla",
+        "year": 2020,
+        "color": "Blue"
+    },
+    {
+        "make": "Honda",
+        "model": "Civic",
+        "year": 2019,
+        "color": "Black"
+    },
+    {
+        "make": "Ford",
+        "model": "Mustang",
+        "year": 2021,
+        "color": "Red"
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Camaro",
+        "year": 2018,
+        "color": "Yellow"
+    },
+    {
+        "make": "Nissan",
+        "model": "Altima",
+        "year": 2020,
+        "color": "White"
+    },
+    {
+        "make": "BMW",
+        "model": "3 Series",
+        "year": 2021,
+        "color": "Gray"
+    },
+    {
+        "make": "Audi",
+        "model": "A4",
+        "year": 2019,
+        "color": "Silver"
+    },
+    {
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "year": 2020,
+        "color": "Black"
+    },
+    {
+        "make": "Volkswagen",
+        "model": "Jetta",
+        "year": 2018,
+        "color": "Blue"
+    },
+    {
+        "make": "Hyundai",
+        "model": "Elantra",
+        "year": 2021,
+        "color": "Red"
+    }
+]

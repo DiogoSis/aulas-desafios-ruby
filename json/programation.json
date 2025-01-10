@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "language": "Ruby",
+        "paradigm": ["object-oriented", "imperative", "functional"],
+        "creator": "Yukihiro Matsumoto",
+        "first_appeared": 1995,
+        "influenced_by": ["Perl", "Smalltalk", "Eiffel", "Ada", "Lisp"],
+        "influenced": ["Elixir", "Crystal", "CoffeeScript"],
+        "frameworks": ["Rails", "Sinatra", "Hanami"]
+    },
+    {
+        "id": 2,
+        "language": "Python",
+        "paradigm": ["object-oriented", "imperative", "functional", "procedural"],
+        "creator": "Guido van Rossum",
+        "first_appeared": 1991,
+        "influenced_by": ["ABC", "C", "Modula-3"],
+        "influenced": ["Cobra", "ECMAScript", "Falcon"],
+        "frameworks": ["Django", "Flask", "Pyramid"]
+    },
+    {
+        "id": 3,
+        "language": "JavaScript",
+        "paradigm": ["object-oriented", "imperative", "functional"],
+        "creator": "Brendan Eich",
+        "first_appeared": 1995,
+        "influenced_by": ["Self", "Scheme", "Java"],
+        "influenced": ["TypeScript", "CoffeeScript", "Dart"],
+        "frameworks": ["React", "Angular", "Vue"]
+    },
+    {
+        "id": 4,
+        "language": "Java",
+        "paradigm": ["object-oriented", "imperative", "class-based"],
+        "creator": "James Gosling",
+        "first_appeared": 1995,
+        "influenced_by": ["C++", "Smalltalk", "Objective-C"],
+        "influenced": ["C#", "Groovy", "Scala"],
+        "frameworks": ["Spring", "Hibernate", "Struts"]
+    },
+    {
+        "id": 5,
+        "language": "C++",
+        "paradigm": ["object-oriented", "imperative", "generic"],
+        "creator": "Bjarne Stroustrup",
+        "first_appeared": 1985,
+        "influenced_by": ["C", "Simula"],
+        "influenced": ["Java", "C#", "D"],
+        "frameworks": ["Qt", "Boost", "Poco"]
+    },
+    {
+        "id": 6,
+        "language": "C",
+        "paradigm": ["imperative", "procedural"],
+        "creator": "Dennis Ritchie",
+        "first_appeared": 1972,
+        "influenced_by": ["B", "ALGOL"],
+        "influenced": ["C++", "Objective-C", "C#"],
+        "frameworks": ["GTK", "libuv", "Cairo"]
+    },
+    {
+        "id": 7,
+        "language": "Go",
+        "paradigm": ["imperative", "concurrent"],
+        "creator": "Robert Griesemer, Rob Pike, Ken Thompson",
+        "first_appeared": 2009,
+        "influenced_by": ["C", "Pascal", "Modula-2"],
+        "influenced": ["Rust", "Julia"],
+        "frameworks": ["Gin", "Beego", "Echo"]
+    },
+    {
+        "id": 8,
+        "language": "Swift",
+        "paradigm": ["object-oriented", "imperative", "functional"],
+        "creator": "Chris Lattner",
+        "first_appeared": 2014,
+        "influenced_by": ["Objective-C", "Rust", "Haskell"],
+        "influenced": ["Kotlin", "Rust"],
+        "frameworks": ["Vapor", "Kitura", "Perfect"]
+    }
+]
