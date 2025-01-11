@@ -1,0 +1,46 @@
+# Ignore bundler config
+/.bundle
+/.vscode
+
+# Ignore the default SQLite database.
+*.sqlite3
+*.sqlite3-journal
+
+# Ignore all logfiles and tempfiles.
+/log/*
+/tmp/*
+/tmp/pids/*
+/tmp/sessions/*
+/tmp/sockets/*
+/tmp/cache/*
+!/log/.keep
+!/tmp/.keep
+
+# Ignore other unneeded files.
+/coverage/
+/spec/reports/
+/test/tmp/
+/test/version_tmp/
+/node_modules/
+/yarn-error.log
+.byebug_history
+
+# Ignore dotenv environment variable files
+.env
+.env.*
+
+# Ignore RubyMine project files
+.idea
+
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore other unneeded files
+*.rbc
+*.sass-cache
+*.swp
+*~
+.project
+.idea
+.secret
+.svn
